@@ -1,5 +1,5 @@
 print("Verificador de numeros, par ou impa.")
-n1= int(input("Insira um número: "))
+n1= int(input("Insira um numero: "))
 print("_____________________________")
 n2= int(input("Insira outro numero: "))
 print("-----------------------------")
