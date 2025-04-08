@@ -1,0 +1,5 @@
+print("Bem vindo ao verificador de par ou impa")
+
+n1= int(input("Digite um número: "))
+n2= int(input("Digite outro número: "))
+
