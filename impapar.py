@@ -5,6 +5,7 @@ n2= int(input("Insira outro numero: "))
 print("-----------------------------")
 soma = n1 + n2
 if soma %2 == 0:
+
     print(f"O numero {soma} é par.")
 else:
     print(f"{soma} é impar.")
